@@ -1,0 +1,11 @@
+To complete this assignment section, identify and submit the five rules of pseudocode.
+
+1. Write one statement per line. Each step of the process gets a separate line.
+
+2. Capitalize keywords. Logic/Control terms get capitalized to stand out.
+
+3. Indent. Indention shows the hierarchy of the structure.
+
+4. End multi-line loops with a clear "END" to see where that section stops.
+
+5. Write the pseudocode in plain English so anyone can understand, don't use actual code.
