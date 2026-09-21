@@ -1,0 +1,11 @@
+Start
+Set answer to 44
+Input guess from user
+If guess is less than answer
+    Output "You are too low. Try again."
+Else if guess is greater than answer
+    Output "You are too high. Try again."
+Else
+    Output "You win, congratulations!"
+Output "Thank you for playing"
+End
